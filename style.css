@@ -39,13 +39,6 @@
     margin: 1rem; /* Margin agar tidak menempel di pinggir */
 }
 
-/* Styling Welcome to */
-#home p {
-    font-size: 2rem;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: white;
-    margin: 0;
-}
 
 /* Gaya untuk teks Dani Galery Jepara */
 #home .brand-logo {
@@ -80,16 +73,6 @@
   to {
     border-color: #333;
   }
-}
-
-
-/* Slogan styling */
-#home .slogan {
-  font-size: 1.2rem;
-  opacity: 0.9;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  color: #ddd;
-  margin-top: 1rem;
 }
 
   /* Best Seller Container */
