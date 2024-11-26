@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 id: 1,
                 name: "Sofa Minimalis Sandaran Custom",
                 price: "Rp 6.850.000",
-                image: "sofaset/Sofa1.jpg",
+                image: "sofaset/sofa1.jpg",
                 description: "Hadirkan sentuhan elegan dan modern ke dalam ruang tamu Anda dengan sofa minimalis berukuran 220x80x110 cm ini. Desain melengkungnya yang unik dipadukan dengan warna beige yang mewah menciptakan kesan hangat dan berkelas. Dilengkapi bantal dekoratif dan material premium yang nyaman, sofa ini tidak hanya menjadi pusat perhatian, tetapi juga menawarkan kenyamanan maksimal untuk bersantai bersama keluarga atau menyambut tamu dengan gaya."
             },
             {
@@ -124,56 +124,56 @@ document.addEventListener('DOMContentLoaded', function() {
                 id: 1,
                 name: "almari pakaian pintu kaca tengah",
                 price: "Rp 18.500.000",
-                image: "almari/almari1.jpg",
+                image: "almari/Almari1.jpg",
                 description: "Lemari Pakaian Minimalis dengan Sentuhan Elegan Dirancang untuk memberikan tampilan yang bersih dan modern, lemari pakaian ini memiliki desain yang minimalis dengan aksen pintu kaca yang elegan. Ukurannya yang besar, P.300 cm x L.55 cm x T.290 cm, menawarkan ruang penyimpanan yang luas untuk semua pakaian Anda. Kombinasi warna yang netral membuatnya mudah dipadukan dengan berbagai gaya interior."
             },
             {
               id: 2,
               name: "Almari Pakaian Cllasic Duco",
               price: "Rp 17.000.000",
-              image: "almari/almari2.jpg",
+              image: "almari/Almari2.jpg",
               description: "Investasi Terbaik untuk Rumah Anda - Dibuat dengan bahan berkualitas tinggi dan finishing duco yang halus, almari pakaian ini dirancang untuk tahan lama. Desain klasiknya yang timeless akan tetap terlihat indah selama bertahun-tahun. Ukurannya yang besar, P.280 cm x L.55 cm x T.260 cm, memberikan ruang penyimpanan yang optimal."
           },
           {
               id: 3,
               name: "Almari Pakaian Minimalis Jumbo",
               price: "Rp 20.500.000",
-              image: "almari/almari3.jpg",
+              image: "almari/Almari3.jpg",
               description: "Lemari Pakaian Minimalis dengan Sentuhan Elegan Dirancang untuk memberikan tampilan yang bersih dan modern, lemari pakaian ini memiliki desain yang minimalis dengan aksen pintu kaca yang elegan. Ukurannya yang besar, P.300 cm x L.55 cm x T.320 cm, menawarkan ruang penyimpanan yang luas untuk semua pakaian Anda. Kombinasi warna yang netral membuatnya mudah dipadukan dengan berbagai gaya interior."
           },
           {
               id: 4,
               name: "Almari Armoire Grande Royale",
               price: "Rp 17.200.000",
-              image: "almari/almari4.jpg",
+              image: "almari/Almari4.jpg",
               description: "Armoire Grande Royale adalah almari pakaian mewah bergaya klasik dengan sentuhan ukiran elegan khas Jepara, dirancang untuk menciptakan aura kemegahan di ruangan Anda. Dengan ukuran impresif 300 cm x 55 cm x 280 cm, almari ini menawarkan ruang penyimpanan luas yang dipadukan dengan detail ukiran artistik dan mahkota dekoratif di bagian atas. Finishing warna krem lembut menambah kesan anggun sekaligus modern, menjadikannya pilihan sempurna untuk melengkapi interior bergaya klasik, vintage, atau kontemporer mewah. Ideal untuk Anda yang menginginkan furnitur berkelas dengan estetika tak lekang oleh waktu."
           },
           {
               id: 5,
               name: "Almari Pakaian 3 Pintu Duco",
               price: "Rp 10.500.000",
-              image: "almari/almari5.jpg",
+              image: "almari/Almari5.jpg",
               description: "Investasi Terbaik untuk Rumah Anda - Dibuat dengan bahan berkualitas tinggi dan finishing duco yang halus, almari pakaian ini dirancang untuk tahan lama. Desain klasiknya yang timeless akan tetap terlihat indah selama bertahun-tahun. Ukurannya yang besar, P.160 cm x L.55 cm x T.200 cm, memberikan ruang penyimpanan yang optimal."
           },
           {
               id: 6,
               name: "Almari Pakaian Pintu 3 Duco White",
               price: "Rp 10.500.000",
-              image: "almari/almari6.jpg",
+              image: "almari/Almari6.jpg",
               description: "Investasi Terbaik untuk Rumah Anda Dibuat dengan bahan berkualitas tinggi dan finishing duco yang halus, almari pakaian ini dirancang untuk tahan lama. Desain klasiknya yang timeless akan tetap terlihat indah selama bertahun-tahun. Ukurannya yang besar, P.300 cm x L.55 cm x T.280 cm, memberikan ruang penyimpanan yang optimal."
           },
           {
               id: 7,
               name: "Almari Cllassic Lengkung 6 Pintu",
               price: "Rp 18.000.000",
-              image: "almari/almari7.jpg",
+              image: "almari/Almari7.jpg",
               description: "Gabungkan gaya klasik dan modern.Dengan Ukuran yang cukup besar, P.300 cm x L.55 cm x T.280 cm, memberikan ruang penyimpanan yang optimal."
           },
           {
               id: 8,
               name: "Almari Classic Gold Motif Lukisan",
               price: "Rp 23.800.000",
-              image: "almari/almari8.jpg",
+              image: "almari/Almari8.jpg",
               description: "Gabungkan gaya klasik dan modern.Dengan Ukuran yang cukup besar, P.300 cm x L.55 cm x T.280 cm, memberikan ruang penyimpanan yang optimal."
           },
             // Tambahkan 7 produk dipan lainnya
@@ -183,56 +183,56 @@ document.addEventListener('DOMContentLoaded', function() {
                 id: 1,
                 name: "Buffet Salur Minimalis Modern",
                 price: "Rp 3.500.000",
-                image: "bufet/bufet1.jpg",
+                image: "bufet/Bufet1.jpg",
                 description: "Perpaduan marmer, kayu, dan aksen emas pada lemari buffet ini menciptakan tampilan yang unik dan menarik. Marmer memberikan kesan mewah dan tahan lama, sementara kayu memberikan kehangatan alami. Aksen emas pada gagang dan kaki menambahkan sentuhan kemewahan pada keseluruhan desain."
             },
             {
               id: 2,
               name: "Buffet Minimalis Olympic",
               price: "Rp 5.800.000",
-              image: "bufet/bufet2.jpg",
+              image: "bufet/Bufet2.jpg",
               description: "Lemari buffet putih ini adalah pilihan yang tepat untuk Anda yang menginginkan perabotan yang fungsional dan estetis. Dengan desain minimalis dan warna putih yang bersih, lemari ini akan memberikan sentuhan modern pada ruangan Anda. Dua pintu dan tiga laci memberikan ruang penyimpanan yang cukup untuk berbagai keperluan. Lemari ini sangat serbaguna dan dapat digunakan di berbagai ruangan di rumah Anda."
           },
           {
               id: 3,
               name: "Buffet Credenza Custom",
               price: "Rp 5.700.000",
-              image: "bufet/bufet3.jpg",
+              image: "bufet/Bufet3.jpg",
               description: "Lemari buffet ini tidak hanya cantik, tetapi juga sangat fungsional. Ruang penyimpanan yang cukup di balik pintu-pintu lemari dapat digunakan untuk menyimpan berbagai macam barang, mulai dari peralatan makan hingga pernak-pernik dekoratif. Desainnya yang elegan akan membuat ruangan Anda terlihat lebih teratur dan rapi."
           },
           {
               id: 4,
               name: "Buffet Sampagne Kaca Figura",
               price: "Rp 7.500.000",
-              image: "bufet/bufet4.jpg",
+              image: "bufet/Bufet4.jpg",
               description: "Lemari buffet ini tidak hanya cantik, tetapi juga sangat fungsional. Ruang penyimpanan yang cukup di balik pintu-pintu lemari dapat digunakan untuk menyimpan berbagai macam barang, mulai dari peralatan makan hingga pernak-pernik dekoratif. Desainnya yang elegan akan membuat ruangan Anda terlihat lebih teratur dan rapi."
           },
           {
               id: 5,
               name: "Buffet Hello Kitty Classic",
               price: "Rp 6.500.000",
-              image: "bufet/bufet5.jpg",
+              image: "bufet/Bufet5.jpg",
               description: "Buffet Hello Kitty ini menawarkan desain klasik minimalis dengan sentuhan elegan yang cocok untuk mempercantik ruang keluarga atau kamar anak Anda. Dibuat dari kayu jati atau mahoni berkualitas tinggi, buffet ini hadir dengan finishing cat putih halus serta detail ukiran lembut yang unik. Dilengkapi dengan dua laci dan dua pintu penyimpanan, buffet ini memberikan ruang yang cukup untuk menyimpan barang-barang Anda dengan rapi. Dengan kaki berukir yang menambah keanggunan, furniture ini dapat disesuaikan dengan ukuran atau warna sesuai kebutuhan Anda. Jadikan rumah Anda lebih istimewa bersama Dani Galeri Jepara!"
           },
           {
               id: 6,
               name: "Buffet Custom Minimalis",
               price: "Rp 5.500.000",
-              image: "bufet/bufet6.jpg",
+              image: "bufet/Bufet6.jpg",
               description: "Lemari buffet ini tidak hanya cantik, tetapi juga sangat fungsional. Ruang penyimpanan yang cukup di balik pintu-pintu lemari dapat digunakan untuk menyimpan berbagai macam barang, mulai dari peralatan makan hingga pernak-pernik dekoratif. Desainnya yang elegan akan membuat ruangan Anda terlihat lebih teratur dan rapi."
           },
           {
               id: 7,
               name: "Buffet Custom Minimalis + Figura",
               price: "Rp 6.800.000",
-              image: "bufet/bufet7.jpg",
+              image: "bufet/Bufet7.jpg",
               description: "Buffet Custom Minimalis dengan tambahan figura kaca ini dirancang untuk memberikan sentuhan modern dan elegan pada ruangan Anda. Dibuat dari bahan kayu berkualitas dengan finishing putih glossy, buffet ini menghadirkan desain minimalis yang bersih dan berkelas. Dilengkapi dengan empat pintu penyimpanan yang luas dan pegangan berbentuk cincin, furniture ini memberikan fungsi sekaligus estetika. Figura kaca yang menyertai buffet ini menambahkan dimensi dekoratif, menciptakan kesan ruang yang lebih luas dan terang. Sangat cocok untuk ruang makan, ruang tamu, atau area dekorasi lainnya, buffet ini dapat dipesan sesuai kebutuhan hanya di Dani Galeri Jepara!"
           },
           {
               id: 8,
               name: "Buffet Salur Modern Stainless",
               price: "Rp 8.500.000",
-              image: "bufet/bufet8.jpg",
+              image: "bufet/Bufet8.jpg",
               description: "Buffet Salur Modern Stainless ini menghadirkan desain kontemporer yang elegan dengan sentuhan garis salur vertikal yang memberikan kesan mewah dan minimalis. Dibuat dari bahan kayu berkualitas tinggi dengan aksen stainless gold pada bagian pinggir, buffet ini memancarkan nuansa modern yang cocok untuk berbagai interior rumah. Dilengkapi dengan empat laci tengah dan dua pintu penyimpanan samping, buffet ini tidak hanya fungsional tetapi juga estetis. Finishing putih glossy menambah kesan bersih dan berkelas, menjadikannya pilihan sempurna untuk ruang tamu, ruang makan, atau area dekorasi lainnya. Pesan sekarang di Dani Galeri Jepara untuk custom ukuran dan desain!"
           },
             // Tambahkan 7 produk almari lainnya
@@ -242,56 +242,56 @@ document.addEventListener('DOMContentLoaded', function() {
                 id: 1,
                 name: "Tempat tidur cllasic shabby",
                 price: "Rp 8.700.000",
-                image: "dipan/dipan1.jpg",
+                image: "dipan/Dipan1.jpg",
                 description: "Tempat Tidur Classic Shabby adalah dipan mewah dengan sentuhan gaya shabby chic yang memadukan keanggunan klasik dan nuansa romantis. Didesain dengan ukiran khas Jepara yang indah, dipan ini dihiasi headboard dan footboard berlapis kain beludru merah muda cerah dengan aksen kancing tufted yang memberikan kesan mewah dan lembut. Kerangka kayu solid dengan finishing putih elegan memperkuat nuansa vintage yang hangat dan menawan. Tempat tidur ini menjadi pilihan sempurna untuk menciptakan suasana kamar yang nyaman, feminin, dan berkelas"
             },
             {
               id: 2,
               name: "Tempat Tidur Cllasic Tosca/Custom",
               price: "Rp 9.500.000",
-              image: "dipan/dipan2.jpg",
+              image: "dipan/Dipan2.jpg",
               description: "Tempat Tidur Classic Tosca ini menghadirkan nuansa elegan dan mewah dengan desain klasik yang dilengkapi ukiran kayu berkualitas tinggi. Memiliki sandaran berbentuk melengkung yang dilapisi kain bludru tosca lembut, tempat tidur ini tidak hanya memberikan kenyamanan, tetapi juga menambah estetika ruang tidur Anda. Dibuat dari kayu jati atau mahoni solid dengan finishing mewah berwarna tosca dan aksen silver, tempat tidur ini dapat dipesan sesuai ukuran dan warna yang Anda inginkan. Jadikan kamar tidur Anda lebih istimewa dengan furniture premium dari Dani Galeri Jepara!"
           },
           {
               id: 3,
               name: "Tempat Tidur Cllasic Mewah",
               price: "Rp 12.000.000",
-              image: "dipan/dipan3.jpg",
+              image: "dipan/Dipan3.jpg",
               description: "Tempat Tidur Classic Mewah menghadirkan keanggunan yang sempurna untuk kamar tidur Anda dengan desain ukiran megah berwarna emas yang menonjolkan kesan istimewa. Sandaran tinggi berbentuk artistik dihiasi dengan kain bludru abu-abu lembut serta detail kancing berlian yang memberikan tampilan elegan sekaligus kenyamanan. Terbuat dari kayu jati atau mahoni pilihan dengan konstruksi kokoh dan finishing premium, tempat tidur ini sangat cocok bagi Anda yang ingin menciptakan suasana mewah di ruang tidur. Custom tersedia untuk ukuran dan warna sesuai kebutuhan Anda, hanya di Dani Galeri Jepara!"
           },
           {
               id: 4,
               name: "Tempat Tidur Pinky Cllasic",
               price: "Rp 9.200.000",
-              image: "dipan/dipan4.jpg",
+              image: "dipan/Dipan4.jpg",
               description: "Tempat Tidur Pinky Cllasic menghadirkan keanggunan yang sempurna untuk kamar tidur Anda dengan desain ukiran megah berwarna emas yang menonjolkan kesan istimewa. Sandaran tinggi berbentuk artistik dihiasi dengan kain bludru abu-abu lembut serta detail kancing berlian yang memberikan tampilan elegan sekaligus kenyamanan. Terbuat dari kayu jati atau mahoni pilihan dengan konstruksi kokoh dan finishing premium, tempat tidur ini sangat cocok bagi Anda yang ingin menciptakan suasana mewah di ruang tidur. Custom tersedia untuk ukuran dan warna sesuai kebutuhan Anda, hanya di Dani Galeri Jepara!"
           },
           {
               id: 5,
               name: "Tempat Tidur King Custom",
               price: "Rp 11.500.000",
-              image: "dipan/dipan5.jpg",
+              image: "dipan/Dipan5.jpg",
               description: "Tempat Tidur King Custom menghadirkan keanggunan yang sempurna untuk kamar tidur Anda dengan desain ukiran megah berwarna emas yang menonjolkan kesan istimewa. Sandaran tinggi berbentuk artistik dihiasi dengan kain bludru abu-abu lembut serta detail kancing berlian yang memberikan tampilan elegan sekaligus kenyamanan. Terbuat dari kayu jati atau mahoni pilihan dengan konstruksi kokoh dan finishing premium, tempat tidur ini sangat cocok bagi Anda yang ingin menciptakan suasana mewah di ruang tidur. Custom tersedia untuk ukuran dan warna sesuai kebutuhan Anda, hanya di Dani Galeri Jepara!"
           },
           {
               id: 6,
               name: "Tempat Tidur Raja Shabby",
               price: "Rp 9.800.000",
-              image: "dipan/dipan6.jpg",
+              image: "dipan/Dipan6.jpg",
               description: "Tempat Tidur Raja Shabby menghadirkan keanggunan yang sempurna untuk kamar tidur Anda dengan desain ukiran megah berwarna emas yang menonjolkan kesan istimewa. Sandaran tinggi berbentuk artistik dihiasi dengan kain bludru abu-abu lembut serta detail kancing berlian yang memberikan tampilan elegan sekaligus kenyamanan. Terbuat dari kayu jati atau mahoni pilihan dengan konstruksi kokoh dan finishing premium, tempat tidur ini sangat cocok bagi Anda yang ingin menciptakan suasana mewah di ruang tidur. Custom tersedia untuk ukuran dan warna sesuai kebutuhan Anda, hanya di Dani Galeri Jepara!"
           },
           {
               id: 7,
               name: "Tempat Tidur Classic Sultan",
               price: "Rp 14.000.000",
-              image: "dipan/dipan7.jpg",
+              image: "dipan/Dipan7.jpg",
               description: "Tempat Tidur Classic Sultan menghadirkan keanggunan yang sempurna untuk kamar tidur Anda dengan desain ukiran megah berwarna emas yang menonjolkan kesan istimewa. Sandaran tinggi berbentuk artistik dihiasi dengan kain bludru abu-abu lembut serta detail kancing berlian yang memberikan tampilan elegan sekaligus kenyamanan. Terbuat dari kayu jati atau mahoni pilihan dengan konstruksi kokoh dan finishing premium, tempat tidur ini sangat cocok bagi Anda yang ingin menciptakan suasana mewah di ruang tidur. Custom tersedia untuk ukuran dan warna sesuai kebutuhan Anda, hanya di Dani Galeri Jepara!"
           },
           {
               id: 8,
               name: "Tempat Tidur Classic Kombinasi Silver",
               price: "Rp 9.000.000",
-              image: "dipan/dipan8.jpg",
+              image: "dipan/Dipan8.jpg",
               description: "Tempat Tidur Classic Kombinasi Silver menghadirkan keanggunan yang sempurna untuk kamar tidur Anda dengan desain ukiran megah berwarna emas yang menonjolkan kesan istimewa. Sandaran tinggi berbentuk artistik dihiasi dengan kain bludru abu-abu lembut serta detail kancing berlian yang memberikan tampilan elegan sekaligus kenyamanan. Terbuat dari kayu jati atau mahoni pilihan dengan konstruksi kokoh dan finishing premium, tempat tidur ini sangat cocok bagi Anda yang ingin menciptakan suasana mewah di ruang tidur. Custom tersedia untuk ukuran dan warna sesuai kebutuhan Anda, hanya di Dani Galeri Jepara!"
           },
             // Tambahkan 7 produk almari lainnya
